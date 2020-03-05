@@ -5,7 +5,9 @@ This is a compilation of my projects in excel that I create as I fully learn the
 
 [Excel Basics 1](https://www.youtube.com/watch?v=c_ZJLJK5PjM&list=PLrRPvpgDmw0n34OMHeS94epMaX_Y8Tu1k)
 
-[My work](https://github.com/marcvermette/excel-projects/blob/master/EB01-Gradebook.xlsx)
+[My Work](https://github.com/marcvermette/excel-projects/blob/master/EB01-Gradebook.xlsx)
+
+Learning Goals:
   - Enter text data and number data
   - Stylistic formatting
   - Create formulas using built in formulas
