@@ -15,5 +15,16 @@ Learning Goals:
   - Number formatting (facade)
   - Page setup
   - Copy/move sheets
-
+  
 ---
+
+[Excel Basics 2](https://www.youtube.com/watch?v=PNnvuADkg1o)
+
+[My Work](https://github.com/marcvermette/excel-projects/blob/master/EB02-NetIncomeProjections.xlsx)
+
+Learning Goals:
+  - Create a net income projection table
+  - Use formulas and chart
+  - Assumption table (Excel's Golden Rule: Put numbers that can change into a table and use it as a reference)
+  
+ ---
